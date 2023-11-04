@@ -1,0 +1,618 @@
+.nav-item{
+    padding: 10px;
+    font-weight: 700;
+}
+li{
+    list-style: none;
+}
+.header{
+    background-image: linear-gradient(to right, #fbf6f1, #f6d9e1);
+    border-radius: 35px;
+}
+.headertext{
+    margin-top: 13em !important;
+    padding-left: 0px !important;
+}
+.headertext .ram{
+        margin-left: 100px;
+}
+.headergirl{
+    width: 100%;
+}
+.titlesmall{
+    font-size: 25px;
+    margin-bottom: 0px;
+}
+.titlebig{
+    font-family: 'Baloo Bhaijaan 2', cursive;
+    font-size: 10em;
+    font-weight: 700;
+}
+.titlemedium{
+    font-size: 2em;margin-bottom: 3em;
+}
+.explore, .collection:hover{
+    color: rgb(253, 251, 251);
+    padding: 25px 60px;
+    background-color: rgb(231, 76, 37);
+    border: none;
+    border-radius: 9px;
+    display: inline;
+    font-size: 17px;
+    box-shadow: 0px 16px 15px #f3d1d1;
+}
+.secondcont, .madiv{
+ text-align: center;
+ margin-top: 6rem !important;
+}
+.collection0{
+    font-size: 25px;
+}
+.Ourtop{
+    font-size: 45px;
+}
+.hoverbuttons{
+text-align: center;
+justify-content: center;
+margin-top: 60px !important;
+}
+.collection{
+    justify-content: center;
+    padding: 20px;
+    background-color: #f8f8f8;
+    margin: 17px;
+    border-radius: 7px;
+    box-shadow: 10px 10px 10px #eaeaea;
+    text-align: center;
+    font-size: 25px;
+    width: 40%;
+}
+.images{
+    padding: 30px;
+}
+.innermes{
+    padding: 15px;
+    /* background-color: white; */
+}
+.messages1{
+    text-align: center;
+}
+.messages2{
+    text-align: left;
+}
+.smartshirt{
+    color: white;
+}
+.innerimg{
+    background-image: linear-gradient(#fcf5ed, #f4d3db);
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+}
+.products{
+    border: none !important;
+    box-shadow: 10px 10px 11px rgb(227, 225, 225);
+    border-radius: 25px !important;
+}
+.cardbox{
+    border-radius: 25px !important;
+}
+.checked{
+    color: orange;
+}
+.mar{
+    margin-top: 100px;
+}
+.coatgirl{
+    background-image: linear-gradient(135deg, #fdc7b0, #e86c67);
+    margin-left: 5px !important;
+    border-radius: 20px;
+    align-items: center;
+}
+.modern1{
+    background-image: linear-gradient(to right, #fea39f, #efcb7d);
+    margin: 0px 0px 16px 0px;
+    border-radius: 20px;
+    align-items: center;
+}
+.modern2{
+    background-image: linear-gradient(to right, #f8b4aa, #d888cd);
+    margin: 10px 0px 0px 0px;
+    border-radius: 20px;
+    align-items: center;
+}
+.headgirl{
+    margin-top: 15px;
+}
+.coatgirlimg{
+    margin-top: 30px;
+}
+.loadmore{
+    width: 20px !important;
+    margin-left: 100px;
+}
+.fa-brands, .fab {
+    font-family: "Font Awesome 6 Brands";
+    font-weight: 700;
+    font-size: 35px;
+    color: #e74b25;
+}
+.fa-facebook-square, .fa-twitter-square, .fa-linkedin, .fa-whatsapp-square, .fa-youtube-square{
+    height: 30px;
+    width: 30px;
+    background-color: white;
+    color:  #e74b25;
+    border-radius: 4px;
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center;
+    display: inline;
+}
+.shop{
+    font-family: 'Baloo Bhaijaan 2', cursive;
+}
+.fa{
+    font-size: 7px !important;
+}
+.pinkgirl{
+background-color: #fbcfdb;
+border-top-left-radius: 25px;
+border-top-right-radius: 25px;
+width: 100%;
+
+}
+.lookgirl{
+    background-color: #f5e9e1;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    width: 100%;
+    
+}
+.indicategirl{
+    background-color: #ecc4b4;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    width: 100%;
+    
+}
+.cardgirl{
+    box-shadow: 10px 10px 10px #f4eaea;
+}
+.Trendy h5{
+    color: orange;
+}
+.Trendy p, small{
+    font-size: 22px;
+    font-weight: 500;
+}
+.Trendy .card{
+    border-radius: 20px;
+    border: none;
+}
+.Trendy small{
+    margin-bottom: 20px;
+}
+.fa-location-dot, .fa-envelope, .fa-mobile {
+    margin-right: 20px;
+    color: rgb(255 255 255);
+   
+    background-color: #e74b25;
+    border-radius: 5px;
+}
+.fa-location-dot{
+    padding: 10px 8px 0px 9px;
+}
+.fa-envelope{
+    padding: 7px;
+}
+.fa-mobile{
+    padding: 7px;
+}
+
+.footer{
+    background-color: #faf5f1;
+}
+.rowfooter{
+    padding: 6em 0em;
+}
+.weaccept{
+    margin-top: 13px;
+}
+.address{
+    font-size: 15px;
+}
+.card-footer{
+    border-bottom-left-radius: 25px !important;
+    border-bottom-right-radius: 25px !important;
+    background-color: white !important;
+}
+.fa-cart-shopping, .fa-truck-clock, .fa-circle-dollar, .fa-box-dollar{
+    color: orange !important;
+    background-color:  white !important;
+    font-size:;
+}
+.ordersystem{
+width: 20%;
+}
+.photomar{
+    margin-top: 20px;
+}
+.delivery{
+    width: 18%;
+}
+.moneyback{
+    width: 14%;
+}
+.support{
+    width: 14%;
+}
+.imageclass{
+    /* margin-left: 114px; */
+}
+.imgbg{
+    /* height: 50px;
+    width: 50px; */
+    /* background-color: #ecc4b4;
+    border-radius: 5px; */
+    /* text-align: center; */
+}
+.card{
+    border: none !important;
+}
+@media (min-width:250px) and (max-width:390px){
+    .titlebig{
+    font-size: 4em;
+    }
+    .headertext .ram{
+        margin-left: 10px;  
+        border-radius: 0px;
+    }
+    .header{
+        border-radius: 0px;
+    }
+    .headertext{
+        margin-top: 3rem !important;
+        padding-left: 10px !important;
+    }
+    .headergirl{
+        margin-top: 50px;
+    }
+    .explore{
+        margin-left: 60px;
+    }
+    .messages2, .messages1{
+        text-align: center;
+    }
+    .modern1, .modern2, .coatgirl{
+        flex-direction: column;
+        border-radius: 0px;
+    }
+    .messages2{
+        margin-top: 20px !important;
+    }
+    .imageclass{
+        width: 40%;
+    }
+    .coatgirl h4{
+        margin-top: 20px;
+    }
+    .mar{
+        margin-top: 50px !important;
+    }
+.sociallogo{
+    margin-top: 20px !important;
+}
+    .textmargin{
+    margin-top: 20px !important;
+    font-size: 18px;
+    text-align: center;
+    }
+    .textmargin h5{
+        font-size: 22px;
+    }
+    .textmargin ul{
+        padding-left: 0rem !important;
+        }
+.rowfooter {
+    padding: 2em 0em !important;
+}
+.address{
+    margin-top: 20px !important;
+}
+.coatgirl{
+    margin-top: 20px !important;
+    margin-left:  -12px !important;
+}
+.ordersystem {
+    width: 34% !important;
+}
+.delivery {
+    width: 25%;
+}
+.moneyback {
+    width: 24%;
+}
+.support {
+    width: 23%;
+}
+ul{
+    padding-left: 0rem !important;
+}
+.collection{
+    width: 70% !important;
+    font-size: 18px;
+}
+.firststar .fa{
+    font-size: 13px !important;
+}
+.secondstar .fa{
+    font-size: 13px !important;
+}
+}
+@media (min-width:391px) and (max-width:500px){
+    .titlebig{
+        font-size: 6em;
+        }
+        .collection{
+            width: 70% !important;
+        }
+        .ordersystem {
+            width: 34% !important;
+        }
+        .delivery {
+            width: 25%;
+        }
+        .moneyback {
+            width: 24%;
+        }
+        .support {
+            width: 23%;
+        }
+        .headertext .ram{
+            margin-left: 10px;  
+            border-radius: 0px;
+        }
+        .header{
+            border-radius: 0px;
+        }
+        .headertext{
+            margin-top: 3rem !important;
+            padding-left: 10px !important;
+        }
+        .headergirl{
+            margin-top: 50px;
+        }
+        .explore{
+            margin-left: 60px;
+        }
+        .messages2, .messages1{
+            text-align: center;
+        }
+        .modern1, .modern2, .coatgirl{
+            flex-direction: column;
+            border-radius: 0px;
+        }
+        .messages2{
+            margin-top: 20px !important;
+        }
+        .coatgirl h4{
+            margin-top: 20px;
+        }
+        .mar{
+            margin-top: 50px !important;
+        }
+        .sociallogo{
+        margin-top: 20px !important;
+        }
+        .textmargin{
+        margin-top: 20px !important;
+        font-size: 23px;
+        text-align: center;
+        }
+        .textmargin h5{
+            font-size: 30px;
+        }
+        .textmargin ul{
+            padding-left: 0rem !important;
+            }
+        .rowfooter {
+        padding: 2em 0em !important;
+        }
+        .address{
+        margin-top: 20px !important;
+        }
+        .coatgirl{
+        margin-top: 20px !important;
+        margin-left:  -12px !important;
+        }
+        .ordersystem{
+        width: 65%;
+        }
+      
+        .firststar .fa{
+            font-size: 20px !important;
+        }
+        .secondstar .fa{
+            font-size: 20px !important;
+        }
+}
+@media  (min-width: 501px) and (max-width:790px) {
+    .headertext {
+        margin-top: 2em !important;
+        padding-left: 0px !important;
+    }
+    .coatgirl{
+        margin-top: 15px !important;
+    }
+    .header{
+        border-radius: 0px !important;
+    }
+    .headertext .ram {
+        margin-left: 25px;
+    }
+    .headergirl{
+        margin-top: 50px;
+    }
+    .titlebig{
+        font-size: 5em;
+    }
+    .shop{
+        font-size: 33px;
+    }
+    .sociallogo{
+        margin: 30px 0px !important;
+    }
+    .weaccept img{
+        width: 30%;
+    }
+    .textmargin{
+        margin-top: 20px !important;
+        font-size: 23px;
+        text-align: center;
+        }
+    .textmargin h5{
+            font-size: 30px;
+        }
+    .textmargin ul{
+            padding-left: 0rem !important;
+            }
+    .contact1, .weaccept, .shop{
+        text-align: center;
+    }
+    .weaccept img{    
+        width: 38%;
+  }
+.address{
+    margin: 23px 0px !important;
+    font-size: 22px !important;
+}
+.address h6{
+    font-size: 28px;
+}
+.shopmessage{
+    font-size: 22px;
+}
+    .collection{
+        width: 40% !important;
+        margin: 20px 12px;
+    }
+    .firststar .fa{
+        font-size: 16px !important;
+    }
+    .secondstar .fa{
+        font-size: 16px !important;
+    }
+    .innermes h5, p{
+font-size: 20px;
+    }
+}
+@media  (min-width: 791px) and (max-width:922px) {
+    .headertext {
+        margin-top: 2em !important;
+        padding-left: 0px !important;
+    }
+    .titlebig{
+        font-size: 5em;
+    }
+    .headertext .ram {
+        margin-left: 20px;
+    }
+    .collection{
+        width: 40% !important;
+        margin: 20px 12px;
+    }
+    .header{
+        border-radius: 0px;
+    }
+    .coatgirl{
+        margin-top: 15px !important;
+    }
+    .innermes .card-title{
+        font-size: 10px;
+    }
+    .shop{
+
+    }
+    .shopmessage{
+        font-size: 22px;
+    }
+    .sociallogo{
+        margin: 30px 0px !important;
+    }
+    .weaccept img{    
+            width: 38%;
+      }
+    .address{
+        margin: 23px 0px !important;
+        font-size: 22px !important;
+    }
+    .address h6{
+        font-size: 25px;
+    }
+    .textmargin ul {
+        padding-left: 0rem !important;
+    }
+    .firststar .fa{
+        font-size: 16px !important;
+    }
+    .secondstar .fa{
+        font-size: 16px !important;
+    }
+}
+@media  (min-width: 921px) and (max-width:1200px) {
+    .titlebig{
+        font-size: 5em;
+    }
+    .headertext .ram {
+        margin-left: 20px;
+    }
+    .collection{
+        font-size: 18px;
+    }
+    .headertext {
+        margin-top: 8em !important;
+        padding-left: 20px !important;
+    }
+    .textmargin ul{
+        padding-left: 0rem !important;
+    }
+    .ordersystem {
+        width: 40%;
+    }
+    .delivery {
+        width: 38%;
+    }
+    .moneyback {
+        width: 30%;
+    }
+    .support {
+        width: 29%;
+    }
+    .sociallogo .col{
+        padding-left: 0px !important;
+        margin-top: 20px !important;
+    }
+    .firststar .fa{
+        font-size: 13px !important;
+    }
+    .secondstar .fa{
+        font-size: 8px !important;
+    }
+}
+@media  (min-width: 1201px){
+   
+    .collection{
+        width: 70% !important;
+        font-size: 18px;
+    }
+    .collection {
+        width: 34% !important;
+        font-size: 24px;
+        margin: 20px 10px;
+    }
+    .firststar .fa{
+        font-size: 13px !important;
+    }
+    .secondstar .fa{
+        font-size: 11px !important;
+    }
+}
